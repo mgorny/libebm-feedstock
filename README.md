@@ -186,5 +186,6 @@ Feedstock Maintainers
 =====================
 
 * [@interpret-ml](https://github.com/interpret-ml/)
+* [@mgorny](https://github.com/mgorny/)
 * [@paulbkoch](https://github.com/paulbkoch/)
 
